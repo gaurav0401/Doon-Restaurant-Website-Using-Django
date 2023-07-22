@@ -2,8 +2,8 @@
 
 ## This is a Restaurant Website using Django Framework of Python
 
-   *In Django we can divide our project into different part in a form of app.
-   *Django provides us built-in user authentication system.
+   * In Django we can divide our project into different part in a form of app.
+   * Django provides us built-in user authentication system.
 
 Our website consists of there pages 
            * Home page
