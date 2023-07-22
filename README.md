@@ -6,9 +6,9 @@
    *Django provides us built-in user authentication system.
 
 Our website consists of there pages 
-           *Home page
-           *About Page
-           *Contact Us page
+           * Home page
+           * About Page
+           * Contact Us page
 In contact us page user can ask about their queries which is send to user bakend (to the super user).
 
 
