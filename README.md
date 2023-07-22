@@ -6,9 +6,9 @@
    * Django provides us built-in user authentication system.
 
 ## Our website consists of three pages 
-           * Home page
-           * About Page
-           * Contact Us page
+           1. Home page
+           2. About Page
+           3. Contact Us page
 In contact us page user can ask about their queries which is send to user bakend (to the super user).
 
 
