@@ -1,18 +1,18 @@
 # Doon-Restaurant-Website-Using-Django
 
-## This is a Restaurant Website using Django Framework of Python
+## This is a Restaurant Website using the Django Framework of Python
 
-   * In Django we can divide our project into different part in a form of app.
+   * In Django we can divide our project into different parts in the form of  an app.
    * Django provides us built-in user authentication system.
 
 ## Our website consists of three pages 
            1. Home page
            2. About Page
            3. Contact Us page
-In contact us page user can ask about their queries which is send to user backend (to the super user).
+On the contact us page, users can ask about their queries  which are sent to the  backend (to the superuser).
 
 
-## Screenshot 1  Home Page part 1
+## Screenshot 1  Home Page Part 1
 
 ![image](https://github.com/gaurav0401/Doon-Restaurant-Website-Using-Django/assets/80095859/a9932447-60f0-42e7-9bc7-53826f1c7b7e)
 
@@ -23,12 +23,12 @@ In contact us page user can ask about their queries which is send to user backen
 
 
 
-## Screenshot 3 About paage
+## Screenshot 3 About page
 
 ![image](https://github.com/gaurav0401/Doon-Restaurant-Website-Using-Django/assets/80095859/fdf3b31d-54b2-4833-b894-358db7d46317)
 
 
-## Screenshot 4   Contact us Page
+## Screenshot 4   Contact Us Page
 
 ![image](https://github.com/gaurav0401/Doon-Restaurant-Website-Using-Django/assets/80095859/b8d5bb71-3238-4563-bc20-cf49873abebe)
 
