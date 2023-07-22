@@ -5,7 +5,7 @@
    * In Django we can divide our project into different part in a form of app.
    * Django provides us built-in user authentication system.
 
-Our website consists of there pages 
+## Our website consists of three pages 
            * Home page
            * About Page
            * Contact Us page
