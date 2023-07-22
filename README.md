@@ -9,7 +9,7 @@
            1. Home page
            2. About Page
            3. Contact Us page
-In contact us page user can ask about their queries which is send to user bakend (to the super user).
+In contact us page user can ask about their queries which is send to user backend (to the super user).
 
 
 ## Screenshot 1  Home Page part 1
